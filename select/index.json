@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "グッドな音楽を",
+  "base_artist": "ねぐせ。",
+  "createdAt": "2025-12-15T10:13:37.229914Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グッドな音楽を",
+      "artist": "ねぐせ。",
+      "has_synced": true,
+      "path": "select/01_グッドな音楽を_ねぐせ。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グッドな音楽を",
+      "artist": "ねぐせ。",
+      "has_synced": false,
+      "path": "select/pl_01_グッドな音楽を_ねぐせ。.txt"
+    }
+  ]
+}
